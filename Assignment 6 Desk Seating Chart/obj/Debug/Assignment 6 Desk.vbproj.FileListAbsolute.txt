@@ -1,0 +1,10 @@
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\bin\Debug\Assignment 6 Desk.exe.config
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\bin\Debug\Assignment 6 Desk.exe
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\bin\Debug\Assignment 6 Desk.pdb
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\bin\Debug\Assignment 6 Desk.xml
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment_6_Desk.Form1.resources
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment_6_Desk.Resources.resources
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment 6 Desk.vbproj.GenerateResource.Cache
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment 6 Desk.exe
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment 6 Desk.xml
+C:\Users\TConti\AppData\Local\Temporary Projects\Assignment 6 Desk\obj\Debug\Assignment 6 Desk.pdb
